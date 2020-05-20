@@ -13,7 +13,3 @@ Shows the theory and process behind the development of this system
 ### Images
 Shows the Usecase diagram, process view, architecture alignment diagrams.
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnadubagunta/sa-hvac/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
