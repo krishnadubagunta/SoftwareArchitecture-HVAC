@@ -5,7 +5,7 @@ Envisioned and Developed by [Sai Krishna Dubagunta](https://github.com/krishnadu
 ### Development Images
 Shows the theory and process behind the development of this system
 
-![image 1](/Development%20Images/Image%20uploaded%20from%20iOS%20%281%29.jpg)
+![image 1](../Development%20Images/Image%20uploaded%20from%20iOS%20%281%29.jpg)
 
 
 ### Images
